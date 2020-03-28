@@ -1,0 +1,2 @@
+[28-Mar-2020 15:42:53 Asia/Shanghai] PHP Parse error:  syntax error, unexpected ''request'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in D:\wamp64\www\yii2-basic\basic\config\web.php on line 27
+[28-Mar-2020 18:16:36 Asia/Shanghai] PHP Fatal error:  Class 'app\models\mdm\admin\models\User' not found in D:\wamp64\www\yii2-basic\basic\models\User.php on line 5
